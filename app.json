@@ -4,9 +4,9 @@
     "keywords": [
         "tortoolkitbot"
     ],
-    "repository": "https://github.com/msgcreationstamil/MSG",
-    "website": "https://github.com/msgcreationstamil/MSG",
-    "success_url": "https://github.com/msgcreationstamil/MSG",
+    "repository": "https://github.com/MSGCreation/V-Tor-TTK",
+    "website": "https://github.com/MSGCreation/V-Tor-TTK",
+    "success_url": "https://github.com/MSGCreation/V-Tor-TTK",
     "stack": "container",
     "buildpacks": [
         {
