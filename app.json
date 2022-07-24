@@ -1,0 +1,22 @@
+{
+    "name": "MSG",
+    "description": "TORTOOLKIT",
+    "keywords": [
+        "tortoolkitbot"
+    ],
+    "repository": "https://github.com/msgcreationstamil/MSG",
+    "website": "https://github.com/msgcreationstamil/MSG",
+    "success_url": "https://github.com/msgcreationstamil/MSG",
+    "stack": "container",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
